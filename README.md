@@ -1,6 +1,6 @@
 # crypto_futures_predictor
 
-A new Flutter project.
+A Flutter-based crypto futures predictor with technical indicators, regime detection, and ML-powered signals.
 
 ## Getting Started
 
