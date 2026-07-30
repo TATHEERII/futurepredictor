@@ -15,6 +15,5 @@
       "headers": { "Cache-Control": "public, max-age=0, must-revalidate" },
       "dest": "/$1"
     }
-  ],
-  "cleanOutputs": false
+  ]
 }
