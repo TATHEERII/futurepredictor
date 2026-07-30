@@ -1,0 +1,22 @@
+{
+  "featureNames": [
+    "indicatorConfidence",
+    "mlProbUp",
+    "mlProbDown",
+    "mlProbSideways",
+    "regimeProbTrending",
+    "regimeProbRanging",
+    "regimeProbCrisis"
+  ],
+  "weights": [
+    4.94102520140495,
+    1.8642168830945929,
+    1.595798430477919,
+    -2.6868163302109798,
+    4.295057776730501,
+    -1.911773495957338,
+    -2.374476512987224
+  ],
+  "bias": -6.425908502474349,
+  "version": "1.0.0"
+}
